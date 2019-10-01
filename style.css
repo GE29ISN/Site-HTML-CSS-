@@ -1,0 +1,92 @@
+body
+{
+	background-color : dimgrey;                                                                  
+}
+
+.introduction
+{
+	color: blue;
+	font-weight: bold;
+}
+	
+h1
+{
+	text-align: center;
+	color: white;
+	border: 3px white solid;
+	box-shadow: 1px 6px 8px white
+}
+
+p
+{
+	font-size: 1.3em; 
+	color : white;
+
+}
+
+img
+{
+	position: center;
+}
+ul.navbar {
+
+  list-style-type: none;
+
+  padding: 0;
+
+  margin: 0;
+
+  position: absolute;
+
+  top: 7em;
+
+  left: 1em;
+
+  width: 9em }
+
+h1 {
+
+  font-family: Helvetica, Geneva, Arial,
+
+        SunSans-Regular, sans-serif }
+
+ul.navbar li {
+
+  background: white;
+
+  margin: 0.3em 0;
+
+  padding: 0.6em;
+
+  border-right: 1em solid black }
+
+ul.navbar a {
+
+  text-decoration: none }
+
+a:link {
+
+  color: blue }
+
+a:visited {
+
+  color: red }
+
+a:hover {
+
+  color: gray }
+
+a{
+
+  color: red }
+
+a:hover {
+
+  color: gray }
+
+f{
+color : bleu;
+}
+
+
+
